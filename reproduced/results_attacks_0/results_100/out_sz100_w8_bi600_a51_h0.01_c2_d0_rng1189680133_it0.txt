@@ -1,0 +1,15 @@
+Threads set to: 8
+Block interval set to: 600.000000
+Attack type set to: 51%
+Attacker hash power set to: 0.010000 of network total hash power
+RNG seed set to: 1189680133
+Statistics will be saved in folder Results_sz100_w8_bi600.000000_a51_h0.010000_c2_d0_rng1189680133_0/
+Statistics will be saved in file Results_sz100_w8_bi600.000000_a51_h0.010000_c2_d0_rng1189680133_0/stats_sz100_w8_bi600.000000_a51_h0.010000_c2_d0_rng1189680133.json
+Attackers: [76, ]
+03:12:38 [32mINFO [0m [90m/RBlockSim_repro/ROOT-Sim_core/src/init.c:113:[0m Initializing parallel simulation
+03:12:38 [32mINFO [0m [90m/RBlockSim_repro/ROOT-Sim_core/src/parallel/parallel.c:36:[0m Starting simulation
+Virtual time: 8941.910001Virtual time: 10535.339648Virtual time: 10557.077156Virtual time: 10585.074778Virtual time: 10612.423424Virtual time: 10640.396324Virtual time: 10669.625615Virtual time: 10695.887747Virtual time: 10721.105104Virtual time: 13117.749312Virtual time: 13148.821433Virtual time: 13180.439529Virtual time: 13210.855369Virtual time: 17002.298012Virtual time: 18087.893403Virtual time: 19633.603117Virtual time: 19672.315735Virtual time: 19710.384756Virtual time: 19749.302040Virtual time: 19787.780593Virtual time: 19829.515040Virtual time: 29433.451859Virtual time: 29464.497883Virtual time: 29496.047322Virtual time: 30831.962825Virtual time: 30870.229369Virtual time: 46200.819677Virtual time: 46229.968211Virtual time: 46258.519475Virtual time: 46285.247057Virtual time: 51812.463460Virtual time: 59748.088505Virtual time: 65512.453482Virtual time: 70929.639033Virtual time: 81347.184976Virtual time: 81375.630819Virtual time: 81404.812317Virtual time: 81428.673775Virtual time: 83341.303720Virtual time: infinity
+03:12:42 [32mINFO [0m [90m/RBlockSim_repro/ROOT-Sim_core/src/log/stats.c:379:[0m Simulation completed in 4.009 seconds
+03:12:42 [32mINFO [0m [90m/RBlockSim_repro/ROOT-Sim_core/src/parallel/parallel.c:48:[0m Finalizing simulation
+Total mined blocks: 121
+Height: 151

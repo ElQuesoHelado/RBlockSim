@@ -1,0 +1,15 @@
+Threads set to: 8
+Block interval set to: 600.000000
+Attack type set to: 51%
+Attacker hash power set to: 0.160000 of network total hash power
+RNG seed set to: 4293118593
+Statistics will be saved in folder Results_sz100_w8_bi600.000000_a51_h0.160000_c1_d0_rng4293118593_0/
+Statistics will be saved in file Results_sz100_w8_bi600.000000_a51_h0.160000_c1_d0_rng4293118593_0/stats_sz100_w8_bi600.000000_a51_h0.160000_c1_d0_rng4293118593.json
+Attackers: [80, ]
+03:11:06 [32mINFO [0m [90m/RBlockSim_repro/ROOT-Sim_core/src/init.c:113:[0m Initializing parallel simulation
+03:11:06 [32mINFO [0m [90m/RBlockSim_repro/ROOT-Sim_core/src/parallel/parallel.c:36:[0m Starting simulation
+Virtual time: 664.171879Virtual time: 720.535171Virtual time: 6189.354018Virtual time: 8344.023038Virtual time: 9537.257344Virtual time: 9579.941430Virtual time: 9617.644154Virtual time: 9656.166133Virtual time: 9693.364990Virtual time: 9731.203310Virtual time: 13149.339979Virtual time: 13184.929140Virtual time: 20683.460920Virtual time: 20713.063295Virtual time: 23486.726096Virtual time: 23518.587780Virtual time: 23552.517515Virtual time: 31194.986044Virtual time: 34678.527501Virtual time: 34710.325288Virtual time: 34742.180633Virtual time: 34774.079572Virtual time: 34809.336116Virtual time: 34835.984120Virtual time: 34864.959484Virtual time: 34893.768404Virtual time: 34919.588660Virtual time: 34950.404512Virtual time: 45218.707247Virtual time: 45250.946797Virtual time: 45280.366228Virtual time: 45303.072114Virtual time: 45329.792686Virtual time: 45362.743338Virtual time: 45394.799654Virtual time: 45422.524418Virtual time: 57429.176610Virtual time: 65068.509090Virtual time: 72803.044942Virtual time: 82290.726186Virtual time: infinity
+03:11:10 [32mINFO [0m [90m/RBlockSim_repro/ROOT-Sim_core/src/log/stats.c:379:[0m Simulation completed in 4.109 seconds
+03:11:10 [32mINFO [0m [90m/RBlockSim_repro/ROOT-Sim_core/src/parallel/parallel.c:48:[0m Finalizing simulation
+Total mined blocks: 128
+Height: 138

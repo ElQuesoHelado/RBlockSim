@@ -1,0 +1,9 @@
+Threads set to: 8
+Block interval set to: 600.000000
+Attack type set to: 51%
+Attacker hash power set to: 0.010000 of network total hash power
+RNG seed set to: 1855729061
+Statistics will be saved in folder Results_sz100_w8_bi600.000000_a51_h0.010000_c1_d0_rng1855729061_0/
+Statistics will be saved in file Results_sz100_w8_bi600.000000_a51_h0.010000_c1_d0_rng1855729061_0/stats_sz100_w8_bi600.000000_a51_h0.010000_c1_d0_rng1855729061.json
+Attackers: [39, ]
+03:15:55 [32mINFO [0m [90m/RBlockSim_repro/ROOT-Sim_core/src/init.c:113:[0m Initializing parallel simulation

@@ -1,0 +1,15 @@
+Threads set to: 8
+Block interval set to: 600.000000
+Attack type set to: Selfish mining
+Attacker hash power set to: 0.960000 of network total hash power
+RNG seed set to: 3332133864
+Statistics will be saved in folder Results_sz1000_w8_bi600.000000_aselfish_h0.960000_c1_d1_rng3332133864_0/
+Statistics will be saved in file Results_sz1000_w8_bi600.000000_aselfish_h0.960000_c1_d1_rng3332133864_0/stats_sz1000_w8_bi600.000000_aselfish_h0.960000_c1_d1_rng3332133864.json
+Attackers: [873, ]
+03:38:26 [32mINFO [0m [90m/RBlockSim_repro/ROOT-Sim_core/src/init.c:113:[0m Initializing parallel simulation
+03:38:26 [32mINFO [0m [90m/RBlockSim_repro/ROOT-Sim_core/src/parallel/parallel.c:36:[0m Starting simulation
+Virtual time: 7411.153265Virtual time: 13405.744365Virtual time: 18709.805491Virtual time: 26486.868931Virtual time: 36660.325476Virtual time: 44946.037065Virtual time: 53325.841208Virtual time: 58615.938286Virtual time: 64796.301901Virtual time: 69004.408215Virtual time: 74124.158961Virtual time: 80288.180999Virtual time: 85798.106661Virtual time: infinity
+03:38:28 [32mINFO [0m [90m/RBlockSim_repro/ROOT-Sim_core/src/log/stats.c:379:[0m Simulation completed in 1.407 seconds
+03:38:28 [32mINFO [0m [90m/RBlockSim_repro/ROOT-Sim_core/src/parallel/parallel.c:48:[0m Finalizing simulation
+Total mined blocks: 12
+Height: 156

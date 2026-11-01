@@ -1,0 +1,7 @@
+Threads set to: 1
+Block interval set to: 13.000000
+RNG seed set to: 577516984
+No attackers
+03:15:56 [32mINFO [0m [90m/RBlockSim_repro/ROOT-Sim_core/src/init.c:113:[0m Initializing parallel simulation
+03:15:56 [32mINFO [0m [90m/RBlockSim_repro/ROOT-Sim_core/src/parallel/parallel.c:36:[0m Starting simulation
+Virtual time: 5333.012927Virtual time: 8923.482720Virtual time: 13605.259055Virtual time: 20539.222858Virtual time: 28358.878099

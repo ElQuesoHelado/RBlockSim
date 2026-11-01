@@ -1,0 +1,11 @@
+Threads set to: 1
+Block interval set to: 600.000000
+RNG seed set to: 3220401064
+No attackers
+04:22:26 [32mINFO [0m [90m/RBlockSim_repro/ROOT-Sim_core/src/init.c:113:[0m Initializing parallel simulation
+04:22:27 [32mINFO [0m [90m/RBlockSim_repro/ROOT-Sim_core/src/parallel/parallel.c:36:[0m Starting simulation
+Virtual time: 2676.933166Virtual time: 5710.312521Virtual time: 9414.178927Virtual time: 9533.585787Virtual time: 12259.126854Virtual time: 14262.594664Virtual time: 17729.339376Virtual time: 19173.752216Virtual time: 19997.419330Virtual time: 21463.009709Virtual time: 22213.598317Virtual time: 26883.210594Virtual time: 26883.420015Virtual time: 26883.840172Virtual time: 28543.467560Virtual time: 30860.267379Virtual time: 32660.692554Virtual time: 32984.573723Virtual time: 33526.961519Virtual time: 35514.655160Virtual time: 37551.937284Virtual time: 40924.618593Virtual time: 41937.075677Virtual time: 42342.924569Virtual time: 43456.279300Virtual time: 45142.432214Virtual time: 45468.929996Virtual time: 47564.422909Virtual time: 48914.979157Virtual time: 49910.053380Virtual time: 49945.659680Virtual time: 49945.706524Virtual time: 49945.749466Virtual time: 49945.892549Virtual time: 51738.589493Virtual time: 54882.746117Virtual time: 56869.431036Virtual time: 59418.914266Virtual time: 60356.672642Virtual time: 60356.803490Virtual time: 60359.008131Virtual time: 61662.334277Virtual time: 63308.007144Virtual time: 65448.829590Virtual time: 68185.220897Virtual time: 71729.073973Virtual time: 72992.841871Virtual time: 75347.220146Virtual time: 75347.339779Virtual time: 75347.532946Virtual time: 75593.751048Virtual time: 75593.834846Virtual time: 76116.106361Virtual time: 76892.945754Virtual time: 78448.745231Virtual time: 79278.370910Virtual time: 82041.624568Virtual time: 84264.696829Virtual time: infinity
+04:22:33 [32mINFO [0m [90m/RBlockSim_repro/ROOT-Sim_core/src/log/stats.c:379:[0m Simulation completed in 6.564 seconds
+04:22:33 [32mINFO [0m [90m/RBlockSim_repro/ROOT-Sim_core/src/parallel/parallel.c:48:[0m Finalizing simulation
+Total mined blocks: 150
+Height: 150

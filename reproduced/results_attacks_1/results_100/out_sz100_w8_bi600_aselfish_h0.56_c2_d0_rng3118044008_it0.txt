@@ -1,0 +1,15 @@
+Threads set to: 8
+Block interval set to: 600.000000
+Attack type set to: Selfish mining
+Attacker hash power set to: 0.560000 of network total hash power
+RNG seed set to: 3118044008
+Statistics will be saved in folder Results_sz100_w8_bi600.000000_aselfish_h0.560000_c2_d3_rng3118044008_0/
+Statistics will be saved in file Results_sz100_w8_bi600.000000_aselfish_h0.560000_c2_d3_rng3118044008_0/stats_sz100_w8_bi600.000000_aselfish_h0.560000_c2_d3_rng3118044008.json
+Attackers: [48, ]
+03:33:57 [32mINFO [0m [90m/RBlockSim_repro/ROOT-Sim_core/src/init.c:113:[0m Initializing parallel simulation
+03:33:57 [32mINFO [0m [90m/RBlockSim_repro/ROOT-Sim_core/src/parallel/parallel.c:36:[0m Starting simulation
+Virtual time: 14992.823467Virtual time: 15000.913494Virtual time: 15013.234071Virtual time: 15039.540485Virtual time: 15066.462823Virtual time: 15092.917282Virtual time: 15119.673908Virtual time: 15145.746012Virtual time: 15171.383279Virtual time: 15198.915316Virtual time: 15226.368501Virtual time: 16554.703410Virtual time: 17507.776819Virtual time: 17539.470724Virtual time: 17572.938093Virtual time: 17604.410836Virtual time: 25696.579499Virtual time: 25730.389299Virtual time: 25763.005940Virtual time: 25797.006021Virtual time: 26649.238182Virtual time: 26687.155988Virtual time: 26725.547283Virtual time: 37822.700436Virtual time: 50520.350984Virtual time: 50552.667563Virtual time: 56647.625401Virtual time: 56674.747479Virtual time: 56702.117956Virtual time: 79820.167371Virtual time: 79848.657334Virtual time: 79877.271191Virtual time: 86309.202881Virtual time: infinity
+03:34:01 [32mINFO [0m [90m/RBlockSim_repro/ROOT-Sim_core/src/log/stats.c:379:[0m Simulation completed in 3.407 seconds
+03:34:01 [32mINFO [0m [90m/RBlockSim_repro/ROOT-Sim_core/src/parallel/parallel.c:48:[0m Finalizing simulation
+Total mined blocks: 167
+Height: 121

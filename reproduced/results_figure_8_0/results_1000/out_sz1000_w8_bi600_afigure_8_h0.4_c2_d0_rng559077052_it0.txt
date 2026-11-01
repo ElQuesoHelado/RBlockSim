@@ -1,0 +1,9 @@
+Threads set to: 8
+Block interval set to: 600.000000
+Attack type set to: Selfish mining
+Attacker hash power set to: 0.400000 of network total hash power
+RNG seed set to: 559077052
+Statistics will be saved in folder Results_sz100_w8_bi600.000000_aselfish_h0.400000_c2_d2_rng559077052_0/
+Statistics will be saved in file Results_sz100_w8_bi600.000000_aselfish_h0.400000_c2_d2_rng559077052_0/stats_sz100_w8_bi600.000000_aselfish_h0.400000_c2_d2_rng559077052.json
+Attackers: [33, ]
+03:15:58 [32mINFO [0m [90m/RBlockSim_repro/ROOT-Sim_core/src/init.c:113:[0m Initializing parallel simulation

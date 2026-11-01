@@ -1,0 +1,15 @@
+Threads set to: 8
+Block interval set to: 600.000000
+Attack type set to: Selfish mining
+Attacker hash power set to: 0.710000 of network total hash power
+RNG seed set to: 2332252414
+Statistics will be saved in folder Results_sz100_w8_bi600.000000_aselfish_h0.710000_c2_d1_rng2332252414_0/
+Statistics will be saved in file Results_sz100_w8_bi600.000000_aselfish_h0.710000_c2_d1_rng2332252414_0/stats_sz100_w8_bi600.000000_aselfish_h0.710000_c2_d1_rng2332252414.json
+Attackers: [5, ]
+03:30:42 [32mINFO [0m [90m/RBlockSim_repro/ROOT-Sim_core/src/init.c:113:[0m Initializing parallel simulation
+03:30:42 [32mINFO [0m [90m/RBlockSim_repro/ROOT-Sim_core/src/parallel/parallel.c:36:[0m Starting simulation
+Virtual time: 6499.628245Virtual time: 6522.991603Virtual time: 6550.255425Virtual time: 6579.145271Virtual time: 6606.000150Virtual time: 6637.838084Virtual time: 6660.509003Virtual time: 6692.875162Virtual time: 6720.136346Virtual time: 6746.442768Virtual time: 9266.045912Virtual time: 14968.439796Virtual time: 14999.610251Virtual time: 15028.316342Virtual time: 15058.409552Virtual time: 15093.084148Virtual time: 15126.511545Virtual time: 15160.910146Virtual time: 30955.551992Virtual time: 47862.103854Virtual time: 52247.716496Virtual time: 54562.118820Virtual time: 54587.091506Virtual time: 54613.455914Virtual time: 57063.054614Virtual time: 57088.767457Virtual time: 67034.078237Virtual time: 67630.695200Virtual time: 68920.267477Virtual time: 75821.451881Virtual time: 75845.653018Virtual time: 75868.034196Virtual time: 75895.221624Virtual time: 75921.823629Virtual time: 75949.695114Virtual time: 75977.105284Virtual time: 76004.417178Virtual time: 83295.893413Virtual time: 83657.898812Virtual time: infinity
+03:30:46 [32mINFO [0m [90m/RBlockSim_repro/ROOT-Sim_core/src/log/stats.c:379:[0m Simulation completed in 4.009 seconds
+03:30:46 [32mINFO [0m [90m/RBlockSim_repro/ROOT-Sim_core/src/parallel/parallel.c:48:[0m Finalizing simulation
+Total mined blocks: 166
+Height: 174

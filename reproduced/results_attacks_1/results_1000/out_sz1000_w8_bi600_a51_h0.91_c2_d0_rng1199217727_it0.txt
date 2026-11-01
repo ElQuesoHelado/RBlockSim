@@ -1,0 +1,15 @@
+Threads set to: 8
+Block interval set to: 600.000000
+Attack type set to: 51%
+Attacker hash power set to: 0.910000 of network total hash power
+RNG seed set to: 1199217727
+Statistics will be saved in folder Results_sz1000_w8_bi600.000000_a51_h0.910000_c2_d0_rng1199217727_0/
+Statistics will be saved in file Results_sz1000_w8_bi600.000000_a51_h0.910000_c2_d0_rng1199217727_0/stats_sz1000_w8_bi600.000000_a51_h0.910000_c2_d0_rng1199217727.json
+Attackers: [161, ]
+03:36:56 [32mINFO [0m [90m/RBlockSim_repro/ROOT-Sim_core/src/init.c:113:[0m Initializing parallel simulation
+03:36:56 [32mINFO [0m [90m/RBlockSim_repro/ROOT-Sim_core/src/parallel/parallel.c:36:[0m Starting simulation
+Virtual time: 10468.088332Virtual time: 11837.961141Virtual time: 17364.366439Virtual time: 27486.666332Virtual time: 33915.553632Virtual time: 43293.367887Virtual time: 44728.450223Virtual time: 51691.517598Virtual time: 59165.250188Virtual time: 67051.654936Virtual time: 77160.849048Virtual time: infinity
+03:36:57 [32mINFO [0m [90m/RBlockSim_repro/ROOT-Sim_core/src/log/stats.c:379:[0m Simulation completed in 1.205 seconds
+03:36:57 [32mINFO [0m [90m/RBlockSim_repro/ROOT-Sim_core/src/parallel/parallel.c:48:[0m Finalizing simulation
+Total mined blocks: 160
+Height: 160

@@ -1,0 +1,15 @@
+Threads set to: 8
+Block interval set to: 600.000000
+Attack type set to: Selfish mining
+Attacker hash power set to: 0.210000 of network total hash power
+RNG seed set to: 205213895
+Statistics will be saved in folder Results_sz100_w8_bi600.000000_aselfish_h0.210000_c2_d3_rng205213895_0/
+Statistics will be saved in file Results_sz100_w8_bi600.000000_aselfish_h0.210000_c2_d3_rng205213895_0/stats_sz100_w8_bi600.000000_aselfish_h0.210000_c2_d3_rng205213895.json
+Attackers: [1, ]
+03:33:16 [32mINFO [0m [90m/RBlockSim_repro/ROOT-Sim_core/src/init.c:113:[0m Initializing parallel simulation
+03:33:16 [32mINFO [0m [90m/RBlockSim_repro/ROOT-Sim_core/src/parallel/parallel.c:36:[0m Starting simulation
+Virtual time: 4006.771146Virtual time: 4031.407550Virtual time: 4055.218273Virtual time: 4085.149440Virtual time: 4111.731532Virtual time: 4134.459920Virtual time: 4165.242522Virtual time: 4205.394750Virtual time: 8468.886249Virtual time: 8690.656543Virtual time: 8728.934759Virtual time: 8769.666838Virtual time: 24348.849532Virtual time: 24391.820938Virtual time: 24424.928810Virtual time: 24457.285522Virtual time: 24498.424510Virtual time: 24535.570073Virtual time: 24569.480670Virtual time: 24599.435258Virtual time: 24628.010704Virtual time: 25765.956460Virtual time: 25799.162204Virtual time: 25999.939567Virtual time: 26040.414076Virtual time: 26073.990846Virtual time: 30609.566207Virtual time: 42035.723975Virtual time: 47730.366978Virtual time: 47759.775897Virtual time: 63833.789598Virtual time: 78056.579307Virtual time: 81717.434858Virtual time: 81746.261125Virtual time: 81773.846382Virtual time: 81797.465131Virtual time: 81818.299687Virtual time: 81837.614829Virtual time: 81859.806521Virtual time: infinity
+03:33:20 [32mINFO [0m [90m/RBlockSim_repro/ROOT-Sim_core/src/log/stats.c:379:[0m Simulation completed in 4.009 seconds
+03:33:20 [32mINFO [0m [90m/RBlockSim_repro/ROOT-Sim_core/src/parallel/parallel.c:48:[0m Finalizing simulation
+Total mined blocks: 150
+Height: 126

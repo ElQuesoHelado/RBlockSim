@@ -1,0 +1,15 @@
+Threads set to: 8
+Block interval set to: 600.000000
+Attack type set to: 51%
+Attacker hash power set to: 0.310000 of network total hash power
+RNG seed set to: 70360141
+Statistics will be saved in folder Results_sz100_w8_bi600.000000_a51_h0.310000_c1_d0_rng70360141_0/
+Statistics will be saved in file Results_sz100_w8_bi600.000000_a51_h0.310000_c1_d0_rng70360141_0/stats_sz100_w8_bi600.000000_a51_h0.310000_c1_d0_rng70360141.json
+Attackers: [87, ]
+03:18:33 [32mINFO [0m [90m/RBlockSim_repro/ROOT-Sim_core/src/init.c:113:[0m Initializing parallel simulation
+03:18:33 [32mINFO [0m [90m/RBlockSim_repro/ROOT-Sim_core/src/parallel/parallel.c:36:[0m Starting simulation
+Virtual time: 6846.805351Virtual time: 6873.450456Virtual time: 9362.360478Virtual time: 9394.069420Virtual time: 9424.342642Virtual time: 9448.672648Virtual time: 9472.843516Virtual time: 9502.314682Virtual time: 9535.340535Virtual time: 9569.043900Virtual time: 9602.099338Virtual time: 9634.963824Virtual time: 16696.781620Virtual time: 16732.701099Virtual time: 16766.770531Virtual time: 16807.020304Virtual time: 31615.062878Virtual time: 40608.797089Virtual time: 42932.787384Virtual time: 42965.031361Virtual time: 42993.558260Virtual time: 43023.983188Virtual time: 43057.189839Virtual time: 43091.600856Virtual time: 43124.374059Virtual time: 43156.036406Virtual time: 43190.354839Virtual time: 43223.667661Virtual time: 43254.700201Virtual time: 43284.009066Virtual time: 43312.354987Virtual time: 43344.425640Virtual time: 47838.680684Virtual time: 47873.211456Virtual time: 47909.798234Virtual time: 47942.458420Virtual time: 47976.843569Virtual time: 48011.828745Virtual time: 48487.798276Virtual time: 60350.848992Virtual time: 76613.748442Virtual time: 78515.145793Virtual time: 82653.077793Virtual time: infinity
+03:18:37 [32mINFO [0m [90m/RBlockSim_repro/ROOT-Sim_core/src/log/stats.c:379:[0m Simulation completed in 4.408 seconds
+03:18:37 [32mINFO [0m [90m/RBlockSim_repro/ROOT-Sim_core/src/parallel/parallel.c:48:[0m Finalizing simulation
+Total mined blocks: 146
+Height: 146

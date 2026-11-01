@@ -1,0 +1,12 @@
+[94m   __ [90m __   _______   [94m  _ [90m       
+[94m  /__)[90m/  ) /  ) /  __ [94m ( `[90m . ___ 
+[94m / \ [90m(__/ (__/ (      [94m._)[90m / / / )
+[0m
+[32mROOT-Sim configuration:
+[90mLogical processes: 10000
+Termination time: 86400.000000
+Parallelism: 4 threads
+Thread-to-core binding: enabled
+GVT period: 100 ms
+Checkpoint interval: auto
+[39m

@@ -1,0 +1,11 @@
+Threads set to: 4
+Block interval set to: 600.000000
+RNG seed set to: 195147657
+No attackers
+04:05:52 [32mINFO [0m [90m/RBlockSim_repro/ROOT-Sim_core/src/init.c:113:[0m Initializing parallel simulation
+04:05:52 [32mINFO [0m [90m/RBlockSim_repro/ROOT-Sim_core/src/parallel/parallel.c:36:[0m Starting simulation
+Virtual time: 13918.662517Virtual time: 37659.327688Virtual time: 62495.880906Virtual time: 84379.199008Virtual time: infinity
+04:05:52 [32mINFO [0m [90m/RBlockSim_repro/ROOT-Sim_core/src/log/stats.c:379:[0m Simulation completed in 0.501 seconds
+04:05:52 [32mINFO [0m [90m/RBlockSim_repro/ROOT-Sim_core/src/parallel/parallel.c:48:[0m Finalizing simulation
+Total mined blocks: 157
+Height: 157

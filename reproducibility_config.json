@@ -1,18 +1,32 @@
 {
-    "what_to_reproduce": "all",
-    "worker_threads_attacks": 8,
-    "network_sizes_attacks": [
-        100, 1000, 10000
-    ],
-    "worker_threads_figure_8": 8,
-    "network_sizes_figure_8": [
-        1000, 10000, 100000
-    ],
-    "worker_threads_performance": [
-        1, 4, 8, 16, 22, 44, 66, 88
-    ],
-    "network_sizes_performance": [
-        100, 1000, 10000, 100000
-    ],
-    "iterations": 1
+  "what_to_reproduce": "all",
+  "worker_threads_attacks": 8,
+  "network_sizes_attacks": [
+    100,
+    1000,
+    10000
+  ],
+  "worker_threads_figure_8": 8,
+  "network_sizes_figure_8": [
+    1000,
+    10000,
+    50000
+  ],
+  "worker_threads_performance": [
+    1,
+    4,
+    8,
+    16,
+    22,
+    44,
+    66,
+    88
+  ],
+  "network_sizes_performance": [
+    100,
+    1000,
+    10000,
+    50000
+  ],
+  "iterations": 1
 }

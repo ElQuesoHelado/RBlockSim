@@ -1,0 +1,15 @@
+Threads set to: 8
+Block interval set to: 600.000000
+Attack type set to: 51%
+Attacker hash power set to: 0.560000 of network total hash power
+RNG seed set to: 1068041185
+Statistics will be saved in folder Results_sz100_w8_bi600.000000_a51_h0.560000_c2_d0_rng1068041185_0/
+Statistics will be saved in file Results_sz100_w8_bi600.000000_a51_h0.560000_c2_d0_rng1068041185_0/stats_sz100_w8_bi600.000000_a51_h0.560000_c2_d0_rng1068041185.json
+Attackers: [15, ]
+03:20:43 [32mINFO [0m [90m/RBlockSim_repro/ROOT-Sim_core/src/init.c:113:[0m Initializing parallel simulation
+03:20:43 [32mINFO [0m [90m/RBlockSim_repro/ROOT-Sim_core/src/parallel/parallel.c:36:[0m Starting simulation
+Virtual time: 3265.623870Virtual time: 3296.533808Virtual time: 3331.739168Virtual time: 6594.627492Virtual time: 6637.139375Virtual time: 6676.555104Virtual time: 6716.007789Virtual time: 13265.449382Virtual time: 22238.294214Virtual time: 22272.753232Virtual time: 27447.124420Virtual time: 42365.431777Virtual time: 42401.894547Virtual time: 42440.916649Virtual time: 51685.374458Virtual time: 51711.366446Virtual time: 51737.794345Virtual time: 51762.566255Virtual time: 51785.411866Virtual time: 51806.001200Virtual time: 51832.826337Virtual time: 51858.196668Virtual time: 51881.967096Virtual time: 51908.209480Virtual time: 51935.535580Virtual time: 51960.795509Virtual time: 51989.445152Virtual time: 52015.311654Virtual time: 52042.276681Virtual time: 52067.877931Virtual time: 52093.786807Virtual time: 52120.735442Virtual time: 52145.452842Virtual time: 52170.995847Virtual time: 52195.288416Virtual time: 58992.185608Virtual time: 60293.901160Virtual time: 60318.784906Virtual time: 66080.373982Virtual time: infinity
+03:20:47 [32mINFO [0m [90m/RBlockSim_repro/ROOT-Sim_core/src/log/stats.c:379:[0m Simulation completed in 4.010 seconds
+03:20:47 [32mINFO [0m [90m/RBlockSim_repro/ROOT-Sim_core/src/parallel/parallel.c:48:[0m Finalizing simulation
+Total mined blocks: 138
+Height: 146

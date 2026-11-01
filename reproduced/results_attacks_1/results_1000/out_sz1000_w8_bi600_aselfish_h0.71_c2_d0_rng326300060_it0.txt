@@ -1,0 +1,15 @@
+Threads set to: 8
+Block interval set to: 600.000000
+Attack type set to: Selfish mining
+Attacker hash power set to: 0.710000 of network total hash power
+RNG seed set to: 326300060
+Statistics will be saved in folder Results_sz1000_w8_bi600.000000_aselfish_h0.710000_c2_d3_rng326300060_0/
+Statistics will be saved in file Results_sz1000_w8_bi600.000000_aselfish_h0.710000_c2_d3_rng326300060_0/stats_sz1000_w8_bi600.000000_aselfish_h0.710000_c2_d3_rng326300060.json
+Attackers: [591, ]
+03:43:52 [32mINFO [0m [90m/RBlockSim_repro/ROOT-Sim_core/src/init.c:113:[0m Initializing parallel simulation
+03:43:53 [32mINFO [0m [90m/RBlockSim_repro/ROOT-Sim_core/src/parallel/parallel.c:36:[0m Starting simulation
+Virtual time: 9374.541459Virtual time: 17550.639809Virtual time: 37839.340720Virtual time: 60225.006061Virtual time: 72441.363854Virtual time: 74078.871574Virtual time: 74087.677250Virtual time: 74094.696113Virtual time: 74101.382793Virtual time: 74108.033933Virtual time: 74114.788555Virtual time: 74121.909641Virtual time: 74129.332358Virtual time: 74136.291945Virtual time: 74143.641015Virtual time: 74150.756425Virtual time: 74157.656993Virtual time: 74164.657944Virtual time: 74172.419600Virtual time: 74179.746273Virtual time: 74187.216387Virtual time: 74194.899244Virtual time: 74202.643627Virtual time: 74210.391246Virtual time: 74218.398291Virtual time: 74225.682983Virtual time: 74233.236981Virtual time: 74240.348811Virtual time: 74248.469319Virtual time: 74256.409303Virtual time: 74263.779348Virtual time: 74271.328277Virtual time: 74278.926582Virtual time: 74286.102665Virtual time: 74293.374970Virtual time: 74301.209143Virtual time: 74308.912676Virtual time: 75704.656491Virtual time: infinity
+03:43:57 [32mINFO [0m [90m/RBlockSim_repro/ROOT-Sim_core/src/log/stats.c:379:[0m Simulation completed in 3.916 seconds
+03:43:57 [32mINFO [0m [90m/RBlockSim_repro/ROOT-Sim_core/src/parallel/parallel.c:48:[0m Finalizing simulation
+Total mined blocks: 125
+Height: 104

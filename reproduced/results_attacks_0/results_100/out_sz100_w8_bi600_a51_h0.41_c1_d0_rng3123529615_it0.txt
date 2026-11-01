@@ -1,0 +1,15 @@
+Threads set to: 8
+Block interval set to: 600.000000
+Attack type set to: 51%
+Attacker hash power set to: 0.410000 of network total hash power
+RNG seed set to: 3123529615
+Statistics will be saved in folder Results_sz100_w8_bi600.000000_a51_h0.410000_c1_d0_rng3123529615_0/
+Statistics will be saved in file Results_sz100_w8_bi600.000000_a51_h0.410000_c1_d0_rng3123529615_0/stats_sz100_w8_bi600.000000_a51_h0.410000_c1_d0_rng3123529615.json
+Attackers: [83, ]
+03:11:38 [32mINFO [0m [90m/RBlockSim_repro/ROOT-Sim_core/src/init.c:113:[0m Initializing parallel simulation
+03:11:38 [32mINFO [0m [90m/RBlockSim_repro/ROOT-Sim_core/src/parallel/parallel.c:36:[0m Starting simulation
+Virtual time: 5555.045561Virtual time: 5589.661774Virtual time: 5625.087613Virtual time: 9848.765479Virtual time: 9878.731457Virtual time: 9909.750610Virtual time: 20060.112275Virtual time: 20086.402577Virtual time: 20110.335471Virtual time: 20133.853969Virtual time: 24915.108019Virtual time: 24950.925631Virtual time: 24989.321183Virtual time: 25029.468034Virtual time: 25066.262914Virtual time: 25100.244300Virtual time: 25138.128093Virtual time: 25179.369152Virtual time: 25221.721187Virtual time: 25262.614428Virtual time: 25305.802353Virtual time: 25346.551208Virtual time: 43872.960344Virtual time: 47585.732095Virtual time: 47614.917431Virtual time: 47653.485552Virtual time: 50829.184578Virtual time: 56662.976138Virtual time: 56687.973474Virtual time: 56714.074720Virtual time: 56737.809581Virtual time: 56763.905782Virtual time: 61583.091019Virtual time: 73960.229518Virtual time: 73994.490074Virtual time: 85226.771037Virtual time: 85261.184415Virtual time: 85296.000039Virtual time: 86067.843901Virtual time: infinity
+03:11:42 [32mINFO [0m [90m/RBlockSim_repro/ROOT-Sim_core/src/log/stats.c:379:[0m Simulation completed in 4.007 seconds
+03:11:42 [32mINFO [0m [90m/RBlockSim_repro/ROOT-Sim_core/src/parallel/parallel.c:48:[0m Finalizing simulation
+Total mined blocks: 108
+Height: 136

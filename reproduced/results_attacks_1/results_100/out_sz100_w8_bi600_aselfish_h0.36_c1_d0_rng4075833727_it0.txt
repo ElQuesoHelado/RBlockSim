@@ -1,0 +1,15 @@
+Threads set to: 8
+Block interval set to: 600.000000
+Attack type set to: Selfish mining
+Attacker hash power set to: 0.360000 of network total hash power
+RNG seed set to: 4075833727
+Statistics will be saved in folder Results_sz100_w8_bi600.000000_aselfish_h0.360000_c1_d1_rng4075833727_0/
+Statistics will be saved in file Results_sz100_w8_bi600.000000_aselfish_h0.360000_c1_d1_rng4075833727_0/stats_sz100_w8_bi600.000000_aselfish_h0.360000_c1_d1_rng4075833727.json
+Attackers: [96, ]
+03:22:59 [32mINFO [0m [90m/RBlockSim_repro/ROOT-Sim_core/src/init.c:113:[0m Initializing parallel simulation
+03:22:59 [32mINFO [0m [90m/RBlockSim_repro/ROOT-Sim_core/src/parallel/parallel.c:36:[0m Starting simulation
+Virtual time: 10041.203181Virtual time: 10047.191823Virtual time: 10062.370736Virtual time: 10084.336884Virtual time: 10108.572925Virtual time: 10134.314150Virtual time: 10159.293276Virtual time: 10185.119635Virtual time: 10212.344272Virtual time: 10237.887218Virtual time: 10263.292429Virtual time: 10287.577987Virtual time: 10312.081342Virtual time: 10337.403112Virtual time: 15283.832689Virtual time: 15311.582885Virtual time: 15335.177626Virtual time: 15363.266874Virtual time: 15388.978310Virtual time: 15414.889721Virtual time: 15440.103159Virtual time: 26125.584067Virtual time: 29776.631478Virtual time: 30561.092463Virtual time: 33250.516943Virtual time: 36037.173832Virtual time: 38541.616907Virtual time: 47750.930031Virtual time: 47777.009176Virtual time: 47804.904846Virtual time: 47831.409275Virtual time: 47859.958625Virtual time: 55637.155493Virtual time: 55661.087960Virtual time: 55685.865073Virtual time: 55707.153531Virtual time: 55723.969061Virtual time: 55745.453010Virtual time: 79896.543996Virtual time: infinity
+03:23:03 [32mINFO [0m [90m/RBlockSim_repro/ROOT-Sim_core/src/log/stats.c:379:[0m Simulation completed in 4.012 seconds
+03:23:03 [32mINFO [0m [90m/RBlockSim_repro/ROOT-Sim_core/src/parallel/parallel.c:48:[0m Finalizing simulation
+Total mined blocks: 130
+Height: 132

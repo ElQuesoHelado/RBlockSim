@@ -1,0 +1,4 @@
+Threads set to: 88
+Block interval set to: 600.000000
+RNG seed set to: 3232131046
+No attackers
