@@ -1,0 +1,204 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{nakamoto2008bitcoin}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=1977190f018b398e43ede3de043de8ea}{%
+           family={Nakamoto},
+           familyi={N\bibinitperiod},
+           given={Satoshi},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{1977190f018b398e43ede3de043de8ea}
+      \strng{fullhash}{1977190f018b398e43ede3de043de8ea}
+      \strng{fullhashraw}{1977190f018b398e43ede3de043de8ea}
+      \strng{bibnamehash}{1977190f018b398e43ede3de043de8ea}
+      \strng{authorbibnamehash}{1977190f018b398e43ede3de043de8ea}
+      \strng{authornamehash}{1977190f018b398e43ede3de043de8ea}
+      \strng{authorfullhash}{1977190f018b398e43ede3de043de8ea}
+      \strng{authorfullhashraw}{1977190f018b398e43ede3de043de8ea}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Bitcoin: A Peer-to-Peer Electronic Cash System}
+      \field{year}{2008}
+      \verb{urlraw}
+      \verb https://bitcoin.org/bitcoin.pdf
+      \endverb
+      \verb{url}
+      \verb https://bitcoin.org/bitcoin.pdf
+      \endverb
+    \endentry
+    \entry{pimpini2025rblocksim}{inproceedings}{}{}
+      \name{author}{2}{}{%
+        {{hash=f1e1cb71bfb221b17841075c288ed90e}{%
+           family={Pimpini},
+           familyi={P\bibinitperiod},
+           given={Adriano},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a45aae5d0803802d855ed58df3d1d8bb}{%
+           family={Pellegrini},
+           familyi={P\bibinitperiod},
+           given={Alessandro},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Santa Fe, NM, USA}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{f950fe293b08da42b2c48865b3106712}
+      \strng{fullhash}{f950fe293b08da42b2c48865b3106712}
+      \strng{fullhashraw}{f950fe293b08da42b2c48865b3106712}
+      \strng{bibnamehash}{f950fe293b08da42b2c48865b3106712}
+      \strng{authorbibnamehash}{f950fe293b08da42b2c48865b3106712}
+      \strng{authornamehash}{f950fe293b08da42b2c48865b3106712}
+      \strng{authorfullhash}{f950fe293b08da42b2c48865b3106712}
+      \strng{authorfullhashraw}{f950fe293b08da42b2c48865b3106712}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 39th ACM SIGSIM Conference on Principles of Advanced Discrete Simulation (SIGSIM-PADS '25)}
+      \field{title}{{RBlockSim}: Parallel and Distributed Simulation for Blockchain Benchmarking}
+      \field{year}{2025}
+      \field{pages}{1\bibrangedash 10}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1145/3726301.3728421
+      \endverb
+    \endentry
+    \entry{pellegrini2012rootsim}{inproceedings}{}{}
+      \name{author}{3}{}{%
+        {{hash=a45aae5d0803802d855ed58df3d1d8bb}{%
+           family={Pellegrini},
+           familyi={P\bibinitperiod},
+           given={Alessandro},
+           giveni={A\bibinitperiod}}}%
+        {{hash=28c2a862e4e4be97d9a8b2430180b9ba}{%
+           family={Vitali},
+           familyi={V\bibinitperiod},
+           given={Roberto},
+           giveni={R\bibinitperiod}}}%
+        {{hash=b549acaf1dad1fb12af921e040994e9e}{%
+           family={Quaglia},
+           familyi={Q\bibinitperiod},
+           given={Francesco},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ICST}%
+      }
+      \strng{namehash}{e704a2865306f83f0310ba936b4f8605}
+      \strng{fullhash}{368629222af6c80fceeaf545fc3402e9}
+      \strng{fullhashraw}{368629222af6c80fceeaf545fc3402e9}
+      \strng{bibnamehash}{368629222af6c80fceeaf545fc3402e9}
+      \strng{authorbibnamehash}{368629222af6c80fceeaf545fc3402e9}
+      \strng{authornamehash}{e704a2865306f83f0310ba936b4f8605}
+      \strng{authorfullhash}{368629222af6c80fceeaf545fc3402e9}
+      \strng{authorfullhashraw}{368629222af6c80fceeaf545fc3402e9}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 4th International ICST Conference on Simulation Tools and Techniques (SIMUTools)}
+      \field{title}{The {ROme OpTimistic Simulator}: Core Internals and Programming Model}
+      \field{year}{2012}
+      \field{pages}{96\bibrangedash 98}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.4108/icst.simutools.2011.245551
+      \endverb
+    \endentry
+    \entry{fujimoto1990pdes}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=7cd7d5e5f9f1e486b92aec748edba609}{%
+           family={Fujimoto},
+           familyi={F\bibinitperiod},
+           given={Richard\bibnamedelima M.},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{7cd7d5e5f9f1e486b92aec748edba609}
+      \strng{fullhash}{7cd7d5e5f9f1e486b92aec748edba609}
+      \strng{fullhashraw}{7cd7d5e5f9f1e486b92aec748edba609}
+      \strng{bibnamehash}{7cd7d5e5f9f1e486b92aec748edba609}
+      \strng{authorbibnamehash}{7cd7d5e5f9f1e486b92aec748edba609}
+      \strng{authornamehash}{7cd7d5e5f9f1e486b92aec748edba609}
+      \strng{authorfullhash}{7cd7d5e5f9f1e486b92aec748edba609}
+      \strng{authorfullhashraw}{7cd7d5e5f9f1e486b92aec748edba609}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Communications of the ACM}
+      \field{number}{10}
+      \field{title}{Parallel Discrete Event Simulation}
+      \field{volume}{33}
+      \field{year}{1990}
+      \field{pages}{30\bibrangedash 53}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.1145/84537.84545
+      \endverb
+    \endentry
+    \entry{eyal2014majority}{inproceedings}{}{}
+      \name{author}{2}{}{%
+        {{hash=183ef43dada4cf2ec046a03670a785d7}{%
+           family={Eyal},
+           familyi={E\bibinitperiod},
+           given={Ittay},
+           giveni={I\bibinitperiod}}}%
+        {{hash=479b1996c1e697942dfd125d0d61b612}{%
+           family={Sirer},
+           familyi={S\bibinitperiod},
+           given={Emin\bibnamedelima Gün},
+           giveni={E\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{7b15344c137aba86caca551ff9773447}
+      \strng{fullhash}{7b15344c137aba86caca551ff9773447}
+      \strng{fullhashraw}{7b15344c137aba86caca551ff9773447}
+      \strng{bibnamehash}{7b15344c137aba86caca551ff9773447}
+      \strng{authorbibnamehash}{7b15344c137aba86caca551ff9773447}
+      \strng{authornamehash}{7b15344c137aba86caca551ff9773447}
+      \strng{authorfullhash}{7b15344c137aba86caca551ff9773447}
+      \strng{authorfullhashraw}{7b15344c137aba86caca551ff9773447}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Financial Cryptography and Data Security (FC 2014)}
+      \field{title}{Majority is not Enough: Bitcoin Mining is Vulnerable}
+      \field{year}{2014}
+      \field{pages}{436\bibrangedash 454}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1007/978-3-662-45472-5_28
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
